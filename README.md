@@ -42,7 +42,7 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 - [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
 - [Video: Quantum Bitcoin Summit Day 1](https://www.youtube.com/watch?v=GeUdu4hrBPI)
 - [Video: Quantum Bitcoin Summit Day 2](https://www.youtube.com/watch?v=feMWrdJnLak)
-- [Lopp Post in Google Groups] (https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE?pli=1)
+- [Lopp Post in Google Groups](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE?pli=1)
 - [Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures](https://delvingbitcoin.org/t/post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures/1854)
 
 
@@ -58,11 +58,7 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 - [Qubic reorgs Monero Blockchain](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
 
 
-Hay que ponerlos en alguna tematica 
+#### Otros
 
 [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
-
-
-
-
 [Spiral. Nerd of the Month #5: A Castle of Glass](https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4)
