@@ -1,4 +1,4 @@
-Bitdevs Latino
+#Bitdevs Latino
 
 [BitDevs Madrid](https://bitdevsmadrid.org/socratic-seminar-0/)
 [BitDevs Barcelona](https://bitdevsbarcelona.org/socratic-seminar-5/)
@@ -39,6 +39,7 @@ Grants y entrenamiento: [B4OS](B4os.dev)
 - [stratum.work](https://stratum.work/)
 - [non standard txs dataset](https://bitcoin-data.github.io/non-standard-transactions/)
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
+
 
 ## Temas
 
