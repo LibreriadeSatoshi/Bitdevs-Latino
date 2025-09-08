@@ -20,6 +20,16 @@ Bitdevs Latino
 - Sugiere temas para el siguiente Seminario Socrático! [¿Donde encontrar temas para futuros seminarios?](/about/find-topics)
 
 
+### Oportunidades educativas o laborales
+[Bitcoiner Jobs](https://bitcoinerjobs.com/) 
+Grants y entrenamiento: [B4OS](B4os.dev)
+
+### Conferencias
+[Tabconf](https://7.tabconf.com/)
+[BTC++ Berlín](https://btcplusplus.dev/conf/berlin25)
+[LaBitconf](https://labitconf.com/)
+
+
 ### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
 - [clarkmoody.com](https://bitcoin.clarkmoody.com/dashboard/)
@@ -29,13 +39,11 @@ Bitdevs Latino
 - [non standard txs dataset](https://bitcoin-data.github.io/non-standard-transactions/)
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 
-
-### Temas
+## Temas
 
 ### X & NOSTR
-Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business
-https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
-
+[Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business]
+(https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
 
 
 #### Post-Quantum
