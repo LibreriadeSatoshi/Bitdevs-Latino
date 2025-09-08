@@ -54,6 +54,10 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 - [Sub 1 sat/vB stale block analysis](https://x.com/mononautical/status/1956073741454336191)
 
 
+#### Security
+- [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459)
+
+
 
 
 https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4
