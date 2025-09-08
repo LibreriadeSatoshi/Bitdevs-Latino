@@ -1,11 +1,12 @@
-https://bitdevsmadrid.org/socratic-seminar-0/
-https://bitdevsbarcelona.org/socratic-seminar-5/
-https://www.cdmxbitdevs.org/2025-06-19-socratic-seminar-6.html
-https://bitdevscordoba.org/socratic-seminar-9/
-https://santiagobitdevs.com/2025-08-26-socratic-seminar-09-nostr
-https://bitdevs.btcgdl.com/2025-08-12-socratic-seminar-14
-https://bitdevelsalvador.com/2025-08-20-socratic-seminar-16
-https://www.bitdevsba.org/socratic-seminar-6/
+[BitDevs Madrid](https://bitdevsmadrid.org/socratic-seminar-0/)
+[BitDevs Barcelona](https://bitdevsbarcelona.org/socratic-seminar-5/)
+[CDMX BitDevs](https://www.cdmxbitdevs.org/2025-06-19-socratic-seminar-6.html)
+[BitDevs Córdoba](https://bitdevscordoba.org/socratic-seminar-9/)
+[Santiago BitDevs](https://santiagobitdevs.com/2025-08-26-socratic-seminar-09-nostr)
+[BitDevs GDL (BTC GDL)](https://bitdevs.btcgdl.com/2025-08-12-socratic-seminar-14)
+[BitDevs El Salvador](https://bitdevelsalvador.com/2025-08-20-socratic-seminar-16)
+[BitDevs BA](https://www.bitdevsba.org/socratic-seminar-6/)
+
 
 Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business
 https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
