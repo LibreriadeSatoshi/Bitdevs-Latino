@@ -58,6 +58,7 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 
 #### Security
 - [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459)
+- [Qubic reorgs Monero Blockchain](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
 
 
 
