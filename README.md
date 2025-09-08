@@ -50,10 +50,11 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 - [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
 - [#33106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+- [Sub 1 sat/vB stale block analysis](https://x.com/mononautical/status/1956073741454336191)
 
 
 
 
 https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4
-https://x.com/mononautical/status/1956073741454336191 (Sub 1 sat/vB stale block analysis) 
+
 https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886 
