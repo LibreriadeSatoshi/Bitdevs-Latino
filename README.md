@@ -22,6 +22,7 @@ Bitdevs Latino
 
 ### Oportunidades educativas o laborales
 [Bitcoiner Jobs](https://bitcoinerjobs.com/) 
+
 Grants y entrenamiento: [B4OS](B4os.dev)
 
 ### Conferencias
