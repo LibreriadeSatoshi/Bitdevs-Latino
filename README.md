@@ -10,16 +10,7 @@ Bitdevs Latino
 [BitDevs BA](https://www.bitdevsba.org/socratic-seminar-6/)
 
 
-Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business
-https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
-
-
-
-
-
-
 ### Recordatorios
-
 
 - No se permiten fotografías, vídeos o grabaciones de audio
 - Nos adherimos a "[the Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)"
@@ -40,6 +31,11 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 
 
 ### Temas
+
+### X & NOSTR
+Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business
+https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
+
 
 
 #### Post-Quantum
