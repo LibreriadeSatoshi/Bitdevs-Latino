@@ -58,6 +58,7 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 - [Qubic reorgs Monero Blockchain](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
 
 
+Hay que ponerlos en alguna tematica 
 
 [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
 
