@@ -59,7 +59,9 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 
 
 
+[Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
 
-https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4
 
-https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886 
+
+
+[Spiral. Nerd of the Month #5: A Castle of Glass](https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4)
