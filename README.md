@@ -23,6 +23,7 @@ https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty
 
 - No se permiten fotografías, vídeos o grabaciones de audio
 - Nos adherimos a "[the Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)"
+- Mantener el enfoque en Bitcoin y tecnologías afines; no se permite la promoción de otras criptomonedas.
 - Mutear tu mic si no estás hablando. 
 - Respetar los tiempos de intervención, tratar de ser concis@
 - Sugiere temas para el siguiente Seminario Socrático! [¿Donde encontrar temas para futuros seminarios?](/about/find-topics)
