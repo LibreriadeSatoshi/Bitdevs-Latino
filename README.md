@@ -26,9 +26,7 @@
 Grants y entrenamiento: [B4OS](B4os.dev)
 
 ### Conferencias
-[Tabconf](https://7.tabconf.com/)
-[BTC++ Berlín](https://btcplusplus.dev/conf/berlin25)
-[LaBitconf](https://labitconf.com/)
+https://labitconf.com/
 
 
 ### Estadísticas de la Red
@@ -41,7 +39,50 @@ Grants y entrenamiento: [B4OS](B4os.dev)
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 
 
-## Temas
+## Temas Miercoles 23 de Oct -DRAFT Bitdevs Latino #3
+
+# Bitcoin Development Reading List
+
+## Bitcoin Core Development
+
+### Protocol Improvements
+- [fuzz: replace hardcoded numbers for bech32 limits](https://github.com/bitcoin/bitcoin/pull/30596) - PR improving bech32 fuzz testing by removing hardcoded limits
+- [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829) - Enhanced DoS protection for transaction orphanage handling
+
+### Package Relay & Mempool
+- [Package Relay Project Tracking](https://github.com/bitcoin/bitcoin/issues/27463) - Comprehensive tracking issue for package relay implementation
+- [Pay to Anchor and Ephemeral Dust](https://bitcoin.stackexchange.com/questions/123456/pay-to-anchor-and-ephemeral-dust) - Discussion on P2A and ephemeral dust handling
+
+### Multiprocess Architecture  
+- [Multiprocess tracking issue](https://github.com/bitcoin/bitcoin/issues/28722) - Core issue tracking multiprocess Bitcoin implementation
+- [Add bitcoin-{node,gui} to release binaries for IPC](https://github.com/bitcoin/bitcoin/pull/31802) - PR adding IPC binaries to releases
+- [Multiprocess: Add basic spawn and IPC support](https://bitcoincore.reviews) - PR Review Club discussion
+- [Bitcoin Core Multiprocess Design](https://github.com/ryanofsky/bitcoin/blob/ipc/pr/doc/design/multiprocess.md) - Technical design documentation
+- [Cap'n Proto: Introduction](https://capnproto.org/index.html) - IPC serialization protocol used in multiprocess implementation
+
+## Research & Innovation
+
+### Sync Optimization
+- [SwiftSync -- Speeding up IBD with pre-generated hints (PoC)](https://delvingbitcoin.org) - Novel approach to accelerate Initial Block Download
+- [SwiftSync Implementation](https://github.com/2140-dev/swiftsync) - Reference implementation and underlying crates
+- [Bitcoin Kernel: Examples](https://github.com/bitcoin/bitcoin/tree/master/src/kernel) - Modular kernel examples for alternative implementations
+
+### Network Analysis
+- [Stats on compact block reconstructions](https://delvingbitcoin.org) - Analysis of compact block performance and optimization opportunities  
+- [Bitcoin Network Monitor - DSN Research Group](https://dsn.kastel.kit.edu/bitcoin/) - Real-time Bitcoin network monitoring and analysis
+- [0xB10C Bitcoin Research](https://github.com/0xB10C) - Network analysis tools and research
+- [peer-observer DHD Prague 2025](https://docs.google.com/presentation/d/peer-observer-dhd-prague-2025) - Presentation on Bitcoin peer observation techniques
+
+## Lightning Network
+
+### Protocol Extensions
+- [A Lightning Network of multi-party mechanisms](https://delvingbitcoin.org) - Research on extending LN beyond two-party channels
+
+
+---
+BITDEVS LATINO #2 
+*Reading list compiled for Bitcoin development discussion and technical analysis*
+
 
 ### X & NOSTR
 [Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business]
