@@ -50,6 +50,7 @@ https://labitconf.com/
 - [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829) - Enhanced DoS protection for transaction orphanage handling
 
 ### Package Relay & Mempool
+- [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886) - Discussion on Delving Bitcoin about lowering the minimum feerate
 - [Package Relay Project Tracking](https://github.com/bitcoin/bitcoin/issues/27463) - Comprehensive tracking issue for package relay implementation
 - [Pay to Anchor and Ephemeral Dust](https://bitcoin.stackexchange.com/questions/123456/pay-to-anchor-and-ephemeral-dust) - Discussion on P2A and ephemeral dust handling
 
