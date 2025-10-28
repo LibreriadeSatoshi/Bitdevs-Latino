@@ -114,3 +114,4 @@ BITDEVS LATINO #2
 
 - [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
 - [Spiral. Nerd of the Month #5: A Castle of Glass](https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4)
+- [utreexo](https://github.com/utreexo/utreexo) - [bitcoinops.or/utreexo](https://bitcoinops.org/en/topics/utreexo)- Utreexo
