@@ -39,7 +39,7 @@ https://labitconf.com/
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 
 
-## Temas Miercoles 23 de Oct -DRAFT Bitdevs Latino #3
+## Temas Miercoles 28 de Oct - Bitdevs Latino #3
 
 # Bitcoin Development Reading List
 
