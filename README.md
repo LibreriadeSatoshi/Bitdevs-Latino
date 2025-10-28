@@ -76,7 +76,7 @@ https://labitconf.com/
 ## Lightning Network
 
 ### Protocol Extensions
-- [A Lightning Network of multi-party mechanisms](https://delvingbitcoin.org) - Research on extending LN beyond two-party channels
+- [A Lightning Network of multi-party mechanisms]([https://delvingbitcoin.org](https://delvingbitcoin.org/t/a-lightning-network-of-multi-party-mechanisms/1163)) - Research on extending LN beyond two-party channels
 
 
 ---
