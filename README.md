@@ -26,7 +26,7 @@
 Grants y entrenamiento: [B4OS](B4os.dev)
 
 ### Conferencias
-https://labitconf.com/
+
 
 
 ### Estadísticas de la Red
@@ -40,7 +40,7 @@ https://labitconf.com/
 
 
 
-## Temas Next bitdevs Fecha semana del 20 Dic - Bitdevs Latino #4 - 
+## Temas Next bitdevs Fecha semana del 23 Dic - Bitdevs Latino #4 - 
 
 ➡️✍️👩‍💻📖 
 Poner el nombre + link de la Lectura que vas a exponer o bien estás listo para hablar de ella. 
