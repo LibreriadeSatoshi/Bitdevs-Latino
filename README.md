@@ -40,10 +40,68 @@ Grants y entrenamiento: [B4OS](B4os.dev)
 
 
 
-## Temas Next bitdevs Fecha semana del 23 Dic - Bitdevs Latino #4 - 
+# Temas Next bitdevs Fecha semana del 23 Dic - Bitdevs Latino #4 - 
 
 ➡️✍️👩‍💻📖 
 Poner el nombre + link de la Lectura que vas a exponer o bien estás listo para hablar de ella. 
+
+
+
+News & Announcements
+--------------------
+
+- 
+Discussion
+----------
+
+### Tweets, Blogs & Podcasts
+
+- 
+
+### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
+
+- 
+
+### [Delving Bitcoin](https://delvingbitcoin.org/)
+
+- 
+CVEs and Research
+-----------------
+
+### Research
+
+- 
+
+### InfoSec
+
+- 
+
+
+BIPs
+----
+
+- 
+
+Noteworthy PRs
+--------------
+
+### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
+- 
+
+
+
+
+
+
+
+
+
+End
+
+
+
+
 
 ## Temas Miercoles 28 de Oct - Bitdevs Latino #3
 
