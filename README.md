@@ -39,9 +39,11 @@ https://labitconf.com/
 - [mining centralization index](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 
 
-## Temas Next bitdevs Fecha TBD - Bitdevs Latino #4 - 
 
-Proponer nuevas lecturas
+## Temas Next bitdevs Fecha semana del 20 Dic - Bitdevs Latino #4 - 
+
+➡️✍️👩‍💻📖 
+Poner el nombre + link de la Lectura que vas a exponer o bien estás listo para hablar de ella. 
 
 ## Temas Miercoles 28 de Oct - Bitdevs Latino #3
 
