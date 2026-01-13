@@ -141,41 +141,52 @@ End
 ## Lightning Network
 
 ### Protocol Extensions
-- [A Lightning Network of multi-party mechanisms]([https://delvingbitcoin.org](https://delvingbitcoin.org/t/a-lightning-network-of-multi-party-mechanisms/1163)) - Research on extending LN beyond two-party channels
-
+- [A Lightning Network of multi-party mechanisms](https://delvingbitcoin.org/t/a-lightning-network-of-multi-party-mechanisms/1163)
 
 ---
-BITDEVS LATINO #2 
+# Temas Martes 20 de Enero - Bitdevs Latino #5
 *Reading list compiled for Bitcoin development discussion and technical analysis*
 
 
-### X & NOSTR
-[Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business]
-(https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
+## Libsecp256k1
 
+- [ecmult_multi: reduce strauss memory usage by 30%](https://github.com/bitcoin-core/secp256k1/pull/1761)
 
-#### Post-Quantum
-- [A Post Quantum Migration Proposal](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE)
-- [Video: Quantum Bitcoin Summit Day 1](https://www.youtube.com/watch?v=GeUdu4hrBPI)
-- [Video: Quantum Bitcoin Summit Day 2](https://www.youtube.com/watch?v=feMWrdJnLak)
-- [Lopp Post in Google Groups](https://groups.google.com/g/bitcoindev/c/uEaf4bj07rE?pli=1)
-- [Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures](https://delvingbitcoin.org/t/post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures/1854)
+## Bitcoin Dev Mailing List
 
+- [BIP idea: Timelock-Recovery storage format](https://groups.google.com/g/bitcoindev/c/K1NpJp9_BYk)
+- [Reducing RAM requirements with dynamic dust](https://groups.google.com/g/bitcoindev/c/PMtM_I3qwqg)
 
-#### Minimum Relay Feerate
-- [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
-- [#33106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
-- [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
-- [Sub 1 sat/vB stale block analysis](https://x.com/mononautical/status/1956073741454336191)
+## Delving Bitcoin
 
+- [Miniscript Studio - a fulll IDE based on Rust Miniscript](https://delvingbitcoin.org/t/miniscript-studio-a-fulll-ide-based-on-rust-miniscript/2086)
+- [Comparing the performance of ECDSA signature validation in OpenSSL vs. libsecp256k1 over the last decade](https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087)
+- [A Game-Theoretic Approach to Bitcoin’s Valuation in Equilibrium](https://delvingbitcoin.org/t/a-game-theoretic-approach-to-bitcoin-s-valuation-in-equilibrium/1547)
+- [Using Ark as a channel factory](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
+- [What is the importance of running a node?](https://delvingbitcoin.org/t/what-is-the-importance-of-running-a-node/2079)
+- [GitLab Backups for Bitcoin Core repository](https://delvingbitcoin.org/t/gitlab-backups-for-bitcoin-core-repository/624/1)
+## LND
 
-#### Security
-- [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459)
-- [Qubic reorgs Monero Blockchain](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
+- [graph: fix graph-cache issue](https://github.com/lightningnetwork/lnd/pull/10378)
+- [Implement Onion Messaging (BOLT4) and Support Downstream BOLT12 Features](https://github.com/lightningnetwork/lnd/issues/10220)
 
+## Security
 
-#### Otros
+- [Bitcoin Core wallet migration bug](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/)
+- [Blockstream Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
+- [LND: Infinite Inbox DoS](https://morehouse.github.io/lightning/lnd-infinite-inbox-dos/)
+- [An Independent Security Audit of Bitcoin Core](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
 
-- [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
-- [Spiral. Nerd of the Month #5: A Castle of Glass](https://spiralbtc.substack.com/p/nerd-of-the-month-5-a-castle-of-glass-1f4)
-- [utreexo](https://github.com/utreexo/utreexo) - [bitcoinops.or/utreexo](https://bitcoinops.org/en/topics/utreexo)- Utreexo
+## Otros
+
+- [Quantum Doomsday Clock](https://quantumdoomclock.com/)
+- [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
+- [BitMEX research: 64 byte transactions](https://www.bitmex.com/blog/64-Byte-Transactions)
+
+## Releases
+
+- [LND v0.20.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.0-beta)
+- [LDK v0.2](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.2)
+- [CLN v25.12](https://github.com/ElementsProject/lightning/releases/tag/v25.12)
+- [Bitcoin Core v30.1](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-30.1.md)
+- [BTCPay Server 2.3.0](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.3.0)
