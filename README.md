@@ -147,17 +147,20 @@ End
 # Temas Martes 20 de Enero - Bitdevs Latino #5
 *Reading list compiled for Bitcoin development discussion and technical analysis*
 
-
-## Libsecp256k1
+Bitcoin 
+----------
+### Libsecp256k1
 
 - [ecmult_multi: reduce strauss memory usage by 30%](https://github.com/bitcoin-core/secp256k1/pull/1761)
 
-## Bitcoin Dev Mailing List
+Discussion
+----------
+### Bitcoin Dev Mailing List
 
 - [BIP idea: Timelock-Recovery storage format](https://groups.google.com/g/bitcoindev/c/K1NpJp9_BYk)
 - [Reducing RAM requirements with dynamic dust](https://groups.google.com/g/bitcoindev/c/PMtM_I3qwqg)
 
-## Delving Bitcoin
+### Delving Bitcoin
 
 - [Miniscript Studio - a fulll IDE based on Rust Miniscript](https://delvingbitcoin.org/t/miniscript-studio-a-fulll-ide-based-on-rust-miniscript/2086)
 - [Comparing the performance of ECDSA signature validation in OpenSSL vs. libsecp256k1 over the last decade](https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087)
@@ -165,25 +168,36 @@ End
 - [Using Ark as a channel factory](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
 - [What is the importance of running a node?](https://delvingbitcoin.org/t/what-is-the-importance-of-running-a-node/2079)
 - [GitLab Backups for Bitcoin Core repository](https://delvingbitcoin.org/t/gitlab-backups-for-bitcoin-core-repository/624/1)
-## LND
 
-- [graph: fix graph-cache issue](https://github.com/lightningnetwork/lnd/pull/10378)
+Lightning Network
+----------
+### LND
+
+- [Graph: fix graph-cache issue](https://github.com/lightningnetwork/lnd/pull/10378)
 - [Implement Onion Messaging (BOLT4) and Support Downstream BOLT12 Features](https://github.com/lightningnetwork/lnd/issues/10220)
 
-## Security
+CVEs and Research
+-----------------
+
+### Security
 
 - [Bitcoin Core wallet migration bug](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/)
 - [Blockstream Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
 - [LND: Infinite Inbox DoS](https://morehouse.github.io/lightning/lnd-infinite-inbox-dos/)
 - [An Independent Security Audit of Bitcoin Core](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
 
-## Otros
+### Otros
 
 - [Quantum Doomsday Clock](https://quantumdoomclock.com/)
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
 - [BitMEX research: 64 byte transactions](https://www.bitmex.com/blog/64-Byte-Transactions)
 
-## Releases
+
+BIPs
+----
+- [BIP process updated](https://github.com/bitcoin/bips/pull/2051)
+
+### Releases
 
 - [LND v0.20.0-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.0-beta)
 - [LDK v0.2](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.2)
